@@ -12,3 +12,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item 1 Know Which Version of Python You're Using](Item1_Know_which_version_of_Python_you_are_using/README.md)
 
 ## [Item 2 Follow the pep8 style guide](Item2_Follow_the_pep8_style_Guide/README.md)
+
+## [Item 3 Know	the	Differences	Between	bytes,	str,	and unicode](Item3_Know_the_Differences_Between_bytes_str_and_unicode/README.md)
