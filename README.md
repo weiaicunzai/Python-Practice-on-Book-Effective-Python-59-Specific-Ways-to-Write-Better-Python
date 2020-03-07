@@ -18,3 +18,9 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item 4 Write	Helper	Functions	Instead	of	Complex Expressions](Item4_Write_Helper_Functions_Instead_of_Complex_Expressions/README.md)
 
 ## [Item 5 Know	How	to	Slice	Sequences](Item5_Know_How_to_Slice_Sequences/README.md)
+
+## [Item	6	Avoid	Using	start,	end,	and	stride	in	a	Single Slice](Item6_Avoid_Using_start_end_and_stride_in_a_Single_Slice/README.md)
+
+## [Item	7	Use	List	Comprehensions	Instead	of	map	and filter](Item7_Use_List_Comprehensions_Instead_of_map_and_filter/README.md)
+
+## [Item	8	Avoid	More	Than	Two	Expressions	in	List Comprehensions](Item8_Avoid_More_Than_Two_Expressions_in_List_Comprehensions/README.md)
