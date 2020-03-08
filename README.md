@@ -26,3 +26,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	8	Avoid	More	Than	Two	Expressions	in	List Comprehensions](Item8_Avoid_More_Than_Two_Expressions_in_List_Comprehensions/README.md)
 
 ## [Item	10	Prefer	enumerate	Over	range](Item10_Prefer_enumerate_Over_range/README.md)
+
+## [Item	11	Use	zip	to	Process	Iterators	in	Parallel](Item11_Use_zip_to_Process_Iterators_in_Parallel/README.md)
