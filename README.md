@@ -28,3 +28,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	10	Prefer	enumerate	Over	range](Item10_Prefer_enumerate_Over_range/README.md)
 
 ## [Item	11	Use	zip	to	Process	Iterators	in	Parallel](Item11_Use_zip_to_Process_Iterators_in_Parallel/README.md)
+
+## [Item	12:	Avoid	else	Blocks	After	for	and	while	Loops](Item12_Avoid_else_Blocks_After_for_and_while_Loops/README.md)
