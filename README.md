@@ -32,3 +32,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	12	Avoid	else	Blocks	After	for	and	while	Loops](Item12_Avoid_else_Blocks_After_for_and_while_Loops/README.md)
 
 ## [Item	13	Take	Advantage	of	Each	Block	in try/except/else/finally](Item13_Take_Advantage_of_Each_Block_in_try_except_else_finally/README.md)
+
+## [Item	14	Prefer	Exceptions	to	Returning	None](Item14_Prefer_Exceptions_to_Returning_None/README.md)
