@@ -35,6 +35,8 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 
 ## [Item	14	Prefer	Exceptions	to	Returning	None](Item14_Prefer_Exceptions_to_Returning_None/README.md)
 
-## [Item	15:	Know	How	Closures	Interact	with	Variable	Scope](Item15_Know_How_Closures_Interact_with_Variable_Scope/README.md)
+## [Item	15	Know	How	Closures	Interact	with	Variable	Scope](Item15_Know_How_Closures_Interact_with_Variable_Scope/README.md)
 
-## [Item	16:	Consider	Generators	Instead	of	Returning	Lists](Item16_Consider_Generators_Instead_of_Returning_Lists/README.md)
+## [Item	16	Consider	Generators	Instead	of	Returning	Lists](Item16_Consider_Generators_Instead_of_Returning_Lists/README.md)
+
+## [Item	17	Be	Defensive	When	Iterating	Over	Arguments](Item16_Consider_Generators_Instead_of_Returning_Lists/README.md)
