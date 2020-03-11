@@ -34,3 +34,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	13	Take	Advantage	of	Each	Block	in try/except/else/finally](Item13_Take_Advantage_of_Each_Block_in_try_except_else_finally/README.md)
 
 ## [Item	14	Prefer	Exceptions	to	Returning	None](Item14_Prefer_Exceptions_to_Returning_None/README.md)
+
+## [Item	15:	Know	How	Closures	Interact	with	Variable	Scope](Item15_Know_How_Closures_Interact_with_Variable_Scope/README.md)
