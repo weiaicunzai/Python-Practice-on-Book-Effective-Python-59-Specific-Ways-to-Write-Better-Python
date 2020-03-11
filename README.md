@@ -40,3 +40,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	16	Consider	Generators	Instead	of	Returning	Lists](Item16_Consider_Generators_Instead_of_Returning_Lists/README.md)
 
 ## [Item	17	Be	Defensive	When	Iterating	Over	Arguments](Item16_Consider_Generators_Instead_of_Returning_Lists/README.md)
+
+## [Item	18:	Reduce	Visual	Noise	with	Variable	Positional Arguments](Item18_Reduce_Visual_Noise_with_Variable_Positional_Arguments/README.md)
