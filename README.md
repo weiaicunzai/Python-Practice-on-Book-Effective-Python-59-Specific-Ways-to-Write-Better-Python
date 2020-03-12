@@ -44,3 +44,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	18	Reduce	Visual	Noise	with	Variable	Positional Arguments](Item18_Reduce_Visual_Noise_with_Variable_Positional_Arguments/README.md)
 
 ## [Item	19	Provide	Optional	Behavior	with	Keyword Arguments](Item19_Provide_Optional_Behavior_with_Keyword_Arguments/README.md)
+
+## [Item	20	Use	None	and	Docstrings	to	Specify	Dynamic Default	Arguments](Item20_Use_None_and_Docstrings_to_Specify_Dynamic_Default_Arguments/README.md)
