@@ -28,7 +28,7 @@ parse_file(file, False, True)
 ```
 
 
-force the caller to use keyword arguments to call the function, force the caller to know their intention:
+force the caller to know their intention:
 ```
 def parse_file(file, *, parse_text=True, parse_table=True)
 ```
@@ -36,4 +36,5 @@ def parse_file(file, *, parse_text=True, parse_table=True)
 then:
 ```
 parse_file(file, True, False) # error
+parse_file(file, parse_table=False) # ok
 ```
