@@ -50,3 +50,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	20	Use	None	and	Docstrings	to	Specify	Dynamic Default	Arguments](Item20_Use_None_and_Docstrings_to_Specify_Dynamic_Default_Arguments/README.md)
 
 ## [Item	21	Enforce	Clarity	with	Keyword-Only	Arguments](Item21_Enforce_Clarity_with_Keyword-Only_Arguments/README.md)
+
+## [Item	22	Prefer	Helper	Classes	Over	Bookkeeping	with Dictionaries	and	Tuples](Item22_Prefer_Helper_Classes_Over_Bookkeeping_with_Dictionaries_and_Tuples/README.md)
