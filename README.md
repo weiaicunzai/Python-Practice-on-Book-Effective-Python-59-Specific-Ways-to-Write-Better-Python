@@ -52,3 +52,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	21	Enforce	Clarity	with	Keyword-Only	Arguments](Item21_Enforce_Clarity_with_Keyword-Only_Arguments/README.md)
 
 ## [Item	22	Prefer	Helper	Classes	Over	Bookkeeping	with Dictionaries	and	Tuples](Item22_Prefer_Helper_Classes_Over_Bookkeeping_with_Dictionaries_and_Tuples/README.md)
+
+## [Item	23	Accept	Functions	for	Simple	Interfaces	Instead	of Classes](Item23_Accept_Functions_for_Simple_Interfaces_Instead_of_Classes/README.md)
