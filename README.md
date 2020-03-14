@@ -55,4 +55,6 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 
 ## [Item	23	Accept	Functions	for	Simple	Interfaces	Instead	of Classes](Item23_Accept_Functions_for_Simple_Interfaces_Instead_of_Classes/README.md)
 
-## [Item	24:	Use	@classmethod	Polymorphism	to	Construct Objects	Generically](Item24_Use_classmethod_Polymorphism_to_Construct_Objects_Generically/README.md)
+## [Item	24	Use	@classmethod	Polymorphism	to	Construct Objects	Generically](Item24_Use_classmethod_Polymorphism_to_Construct_Objects_Generically/README.md)
+
+## [Item	25	Initialize	Parent	Classes	with	super](Item25_Initialize_Parent_Classes_with_super/README.md)
