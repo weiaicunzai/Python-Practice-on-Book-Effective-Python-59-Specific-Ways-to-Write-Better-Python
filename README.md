@@ -62,3 +62,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	26	Use	Multiple	Inheritance	Only	for	Mix-in	Utility Classes](Item26_Use_Multiple_Inheritance_Only_for_Mix-in_Utility_Classes/README.md)
 
 ## [Item	27	Prefer	Public	Attributes	Over	Private	Ones](Item27_Prefer_Public_Attributes_Over_Private_Ones/README.md)
+
+## [Item	28	Inherit	from	collections.abc	for	Custom Container	Types](Item28_Inherit_from_collections_abc_for_Custom_Container_Types/README.md)
