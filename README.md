@@ -66,3 +66,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	28	Inherit	from	collections.abc	for	Custom Container	Types](Item28_Inherit_from_collections_abc_for_Custom_Container_Types/README.md)
 
 ## [Item	29	Use	Plain	Attributes	Instead	of	Get	and	Set Methods](Item29_Use_Plain_Attributes_Instead_of_Get_and_Set_Methods/README.md)
+
+## [Item	30	Consider	@property	Instead	of	Refactoring Attributes](Item30_Consider_property_Instead_of_Refactoring_Attributes/README.md)
