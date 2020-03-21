@@ -64,3 +64,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	27	Prefer	Public	Attributes	Over	Private	Ones](Item27_Prefer_Public_Attributes_Over_Private_Ones/README.md)
 
 ## [Item	28	Inherit	from	collections.abc	for	Custom Container	Types](Item28_Inherit_from_collections_abc_for_Custom_Container_Types/README.md)
+
+## [Item	29	Use	Plain	Attributes	Instead	of	Get	and	Set Methods](Item29_Use_Plain_Attributes_Instead_of_Get_and_Set_Methods/README.md)
