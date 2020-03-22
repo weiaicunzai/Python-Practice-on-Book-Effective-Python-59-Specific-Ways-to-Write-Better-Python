@@ -68,3 +68,5 @@ Practice of book [Effective Python: 59 Specific Ways to Write Better Python (Eff
 ## [Item	29	Use	Plain	Attributes	Instead	of	Get	and	Set Methods](Item29_Use_Plain_Attributes_Instead_of_Get_and_Set_Methods/README.md)
 
 ## [Item	30	Consider	@property	Instead	of	Refactoring Attributes](Item30_Consider_property_Instead_of_Refactoring_Attributes/README.md)
+
+## [Item	31	Use	Descriptors	for	Reusable	@property	Methods](Item31_Use_Descriptors_for_Reusable_property_Methods/README.md)
